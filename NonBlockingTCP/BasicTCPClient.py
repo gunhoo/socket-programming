@@ -1,4 +1,3 @@
-#20151535 Gunhoo Park
 # BasicTCPClient.py
 #
 
