@@ -4,8 +4,8 @@
 from socket import *
 import time
 
-serverName = 'nsl2.cau.ac.kr'
-serverPort = 21535
+serverName = #yourServerName
+serverPort = #yourPortumber
 
 clientSocket = socket(AF_INET, SOCK_STREAM)
 try:
