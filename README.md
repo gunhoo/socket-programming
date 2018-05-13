@@ -7,6 +7,7 @@ How to compile and run
 2. Fill up the code with your own server IP address and PORT numbers.
 3. Run the server first, then run client.
 4. If you use NetOmokClient, you shold use nickname and compile as 'python3 NetOmokClient Alice'
+
     
 In 'BasicTCP', 'BasicUDP', 'MultiThreadTCP', and 'NonBlockingTCP' directory
 There are 4 commmands in client:
@@ -14,6 +15,7 @@ There are 4 commmands in client:
 2. '2' // convert text to lower-case
 3. '3' // get my IP address and port number
 4. '4' // get server time
+
 
 In 'NetOmok' directory
 There are many commands in client:
