@@ -21,8 +21,8 @@ In 'NetOmok' directory
 There are many commands in client:
 0. Chat function with all users is provided by default
 1. '\list' // show the <nickname, IP, Port> list of all users
-2. '\w <nickname> <message>' // whisper to <nickname>
+2. '\w nickname message' // whisper to <nickname>
 3. '\quit' // disconnect from server, and quit
-4. '\play <nickname>' // ask <nickname> to play omok game
-5. '\ss <x> <y>' // put your stone at <x>, <y> position
+4. '\play nickname' // ask <nickname> to play omok game
+5. '\ss x y' // put your stone at <x>, <y> position
 6. '\gg' // give up game
