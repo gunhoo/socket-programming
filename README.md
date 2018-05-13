@@ -1,17 +1,15 @@
 # socket programming
-
 All program should be filled with your own server name and port numbers both server side and client side.
-
 
 How to compile and run
     1. In Linux environment, you have to compile and run with python3.
     2. Fill up the code with your own server IP address and PORT numbers.
     3. Run the server first, then run client.
     4. If you use NetOmokClient, you shold use nickname and compile as 'python3 NetOmokClient Alice'
-
+    
 In 'BasicTCP', 'BasicUDP', 'MultiThreadTCP', and 'NonBlockingTCP' directory
 There are 4 commmands in client:
-    1. '1' // convert text to UPPER-case
+    1. '1' // convert text to UPPER-cass
     2. '2' // convert text to lower-case
     3. '3' // get my IP address and port number
     4. '4' // get server time
