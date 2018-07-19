@@ -2,7 +2,7 @@
 All program should be filled with your own server name and port numbers both server side and client side.
 
 
-How to compile and run
+## How to compile and run
 1. In Linux environment, you have to compile and run with python3.
 2. Fill up the code with your own server IP address and PORT numbers.
 3. Run the server first, then run client.
