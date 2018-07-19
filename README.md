@@ -9,7 +9,7 @@ All program should be filled with your own server name and port numbers both ser
 4. You need to insert nickname. For example in NetOmokClient, you shold compile as 'python3 NetOmokClient Alice'
 
 
-In 'BasicTCP', 'BasicUDP', 'MultiThreadTCP', and 'NonBlockingTCP' directory
+### In 'BasicTCP', 'BasicUDP', 'MultiThreadTCP', and 'NonBlockingTCP' directory
 There are 4 commmands in client:
     1. '1' // convert text to UPPER-cass
     2. '2' // convert text to lower-case
@@ -17,7 +17,7 @@ There are 4 commmands in client:
     4. '4' // get server time
 
 
-In 'NetOmok' directory
+### In 'NetOmok' directory
 There are many commands in client:
     0. Chat function with all users is provided by default
     1. '\list' // show the <nickname, IP, Port> list of all users
@@ -27,5 +27,5 @@ There are many commands in client:
     5. '\ss x y' // put your stone at <x>, <y> position
     6. '\gg' // give up game
 
-In 'P2PChat' directory
+### In 'P2PChat' directory
 This can run maximum 4 peers to connect each other, and communicate each other.
