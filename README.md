@@ -10,7 +10,7 @@
 
 
 # In 'BasicTCP', 'BasicUDP', 'MultiThreadTCP', and 'NonBlockingTCP' directory
-   # There are 4 commmands in client:
+    # There are 4 commmands in client:
     1. '1' // convert text to UPPER-cass
     2. '2' // convert text to lower-case
     3. '3' // get my IP address and port number
@@ -18,7 +18,7 @@
 
 
 # In 'NetOmok' directory
-   # There are many commands in client:
+    # There are many commands in client:
     0. Chat function with all users is provided by default
     1. '\list' // show the <nickname, IP, Port> list of all users
     2. '\w nickname message' // whisper to <nickname>
