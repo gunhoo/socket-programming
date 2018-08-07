@@ -1,3 +1,7 @@
+MIT License
+
+Copyright (c) 2018 Gunhoo Park
+
 # socket programming
     All program should be filled with your own server name and port numbers both server side and client side.
 
